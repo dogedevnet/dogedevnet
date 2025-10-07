@@ -5,8 +5,8 @@
   
 * 🔰 `Username`: **Dogedev**
 * 🏙️ `Current Personal Project`: **Dogedev Games**
-* 🎮 `Current Game Project`: **Project Alune Remastered**
-* 🌲 `Skill Range`: **Lead Unity Game Developer**
+* 🎮 `Current Game Projects`: **Project Alune Remastered / End Screen Crisis / Axii**
+* 🌲 `Skill Range`: **Lead Game Developer (Unity)**
 * ⚔️ `Other Skills and Tools`:
 
     * **Blender**
