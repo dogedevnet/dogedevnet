@@ -9,12 +9,13 @@
 * 🌲 `Skill Range`: **Lead Game Developer (Unity)**
 * ⚔️ `Other Skills and Tools`:
 
-    * **Blender**
-    * **Affinity Designer and Photo**
-    * **Premiere Pro, Audacity,**
-    * **Famistudio, Magicavoxel and Pixieditor**
+<br>
+    * **Blender.**
+    * **Affinity Designer and Photo.**
+    * **Premiere Pro, Audacity.**
+    * **Famistudio, Magicavoxel and Pixieditor.**
     * **Github Desktop, Sourcetree.**
-    * **Bootstrap Studio**
+    * **Bootstrap Studio.**
     
 <p align="center">
     &emsp;
