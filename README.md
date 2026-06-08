@@ -4,11 +4,15 @@
 
   
 * 🔰 `Username`: **Dogedev**
+  <br><br>
 * 🏙️ `Current Personal Project`: **Dogedev Games**
+  <br><br>
 * 🎮 `Current Game Projects`: **Project Alune RE//DONE / End Screen Crisis / Axii**
+  <br><br>
 * 🌲 `Skill Range`: **Lead Game Developer (Unity)**
+  <br><br>
 * ⚔️ `Other Skills and Tools`:\
-<br><br><br><br><br><br><br>
+<br><br>
   * **Blender.**
   * **Affinity Designer and Photo.**
   * **Premiere Pro, Audacity.**
