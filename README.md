@@ -7,16 +7,15 @@
 * 🏙️ `Current Personal Project`: **Dogedev Games**
 * 🎮 `Current Game Projects`: **Project Alune RE//DONE / End Screen Crisis / Axii**
 * 🌲 `Skill Range`: **Lead Game Developer (Unity)**
-* ⚔️ `Other Skills and Tools`:
+* ⚔️ `Other Skills and Tools`:\
+<br><br><br><br><br><br><br>
+  * **Blender.**
+  * **Affinity Designer and Photo.**
+  * **Premiere Pro, Audacity.**
+  * **Famistudio, Magicavoxel and Pixieditor.**
+  * **Github Desktop, Sourcetree.**
+  * **Bootstrap Studio.**
 
-<br>
-    * **Blender.**
-    * **Affinity Designer and Photo.**
-    * **Premiere Pro, Audacity.**
-    * **Famistudio, Magicavoxel and Pixieditor.**
-    * **Github Desktop, Sourcetree.**
-    * **Bootstrap Studio.**
-    
 <p align="center">
     &emsp;
 </p>
